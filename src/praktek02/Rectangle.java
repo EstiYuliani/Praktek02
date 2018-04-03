@@ -6,10 +6,10 @@ public class Rectangle {
     double lebar ;
     
    void cetakInfo(){
-      System.out.Println ("======================="); 
-      System.out.Println ("Panjang : "+ panjang );
-      System.out.Println ("Lebar : "+ lebar );
-    System.out.Println ("======================="); 
+      System.out.println ("======================="); 
+      System.out.println ("Panjang : "+ panjang );
+      System.out.println ("Lebar : "+ lebar );
+    System.out.println ("======================="); 
     
     }
    
